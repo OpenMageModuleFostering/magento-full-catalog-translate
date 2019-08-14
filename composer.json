@@ -1,0 +1,16 @@
+{
+    "name": "OpenMageModuleFostering/magento-full-catalog-translate",
+    "type": "magento-module",
+    "license": "OSL-v3.0",
+    "homepage": "",
+    "description": "A module to translate all your products automatically using Google Translate API.",
+    "authors": [
+    {
+        "name": "Fabrizio Balliano",
+        "email": "fabrizio@fabrizioballiano.it"
+    }
+],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
